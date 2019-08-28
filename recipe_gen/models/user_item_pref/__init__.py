@@ -5,11 +5,12 @@ Model classes for personalized model attending over previously reviewed items
 
 @inproceedings{majumder2019emnlp,
   title={Generating Personalized Recipes from Historical User Preferences},
-  author={Majumder, Bodhisattwa Prasad and Li, Shuyang and Ni, Jianmo and McAuley, Julian},
+  author={Majumder, Bodhisattwa Prasad* and Li, Shuyang* and Ni, Jianmo and McAuley, Julian},
   booktitle={EMNLP},
   year={2019}
 }
 
+Copyright Shuyang Li & Bodhisattwa Majumder
 License: GNU GPLv3
 '''
 

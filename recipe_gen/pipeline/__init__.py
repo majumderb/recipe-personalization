@@ -1,3 +1,19 @@
+'''
+-*- coding: utf-8 -*-
+
+Sampling and dataset loading
+
+@inproceedings{majumder2019emnlp,
+  title={Generating Personalized Recipes from Historical User Preferences},
+  author={Majumder, Bodhisattwa Prasad* and Li, Shuyang* and Ni, Jianmo and McAuley, Julian},
+  booktitle={EMNLP},
+  year={2019}
+}
+
+Copyright Shuyang Li & Bodhisattwa Majumder
+License: GNU GPLv3
+'''
+
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
