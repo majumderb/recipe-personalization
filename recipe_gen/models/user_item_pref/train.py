@@ -3,7 +3,13 @@
 
 Training script for the prior item/name model
 
-Author: Shuyang Li, Bodhisattwa Majumder
+@inproceedings{majumder2019emnlp,
+  title={Generating Personalized Recipes from Historical User Preferences},
+  author={Majumder, Bodhisattwa Prasad and Li, Shuyang and Ni, Jianmo and McAuley, Julian},
+  booktitle={EMNLP},
+  year={2019}
+}
+
 License: GNU GPLv3
 '''
 
