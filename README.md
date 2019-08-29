@@ -1,10 +1,7 @@
 # Generating Personalized Recipes from Historical User Preferences
-Personalized Recipe Generation: EMNLP 2019
-
-# Generating Personalized Recipes from Historical User Preferences
 This is our PyTorch implementation for the paper:
 
-Generating Personalized Recipes from Historical User Preferences, EMNLP 2019
+*Generating Personalized Recipes from Historical User Preferences, EMNLP 2019*
 
 The code is tested on a Linux server (w/ NVIDIA GeForce Titan X Pascal) with PyTorch 1.1.0 and Python 3.6.
 
