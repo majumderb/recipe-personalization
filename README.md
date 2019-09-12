@@ -10,7 +10,7 @@ The code is tested on a Linux server (with NVIDIA GeForce Titan X Pascal / NVIDI
 * Pytorch v1.0+
 
 # Data
-Backing data can be found [on Kaggle](https://www.kaggle.com/shuyangli94/food-com-recipes-and-user-interactions) or via [Julian McAuley's dataset repository](https://cseweb.ucsd.edu/~jmcauley/datasets.html)
+Backing data can be found [on Kaggle](https://www.kaggle.com/shuyangli94/food-com-recipes-and-user-interactions).
 
 # Citation
 If you find this repository useful for your research, please cite our paper:
