@@ -18,10 +18,16 @@ To train a model, see the [`recipe_gen/models/<model>/train.py`](https://github.
 # Citation
 If you find this repository useful for your research, please cite our paper:
 ```
-@inproceedings{majumder2019emnlp,
-  title={Generating Personalized Recipes from Historical User Preferences},
-  author={Majumder, Bodhisattwa Prasad* and Li, Shuyang* and Ni, Jianmo and McAuley, Julian},
-  booktitle={EMNLP},
-  year={2019}
+@inproceedings{majumder-etal-2019-generating,
+    title = "Generating Personalized Recipes from Historical User Preferences",
+    author = "Majumder, Bodhisattwa Prasad  and
+      Li, Shuyang  and
+      Ni, Jianmo  and
+      McAuley, Julian",
+    booktitle = "EMNLP",
+    year = "2019",
+    url = "https://www.aclweb.org/anthology/D19-1613",
+    doi = "10.18653/v1/D19-1613",
+    pages = "5975--5981",
 }
 ```
